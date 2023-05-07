@@ -1,0 +1,22 @@
+Sources and assets used:
+
+War FX (Muzzle flashes) by Jean Moreno
+https://assetstore.unity.com/packages/vfx/particles/war-fx-5669
+
+9mm pistol shot by Michorvath
+https://pixabay.com/sound-effects/9mm-pistol-shot-6349/
+
+Background Song: A New Planet (Sc-Fi Music) by Theo Prior Music
+https://assetstore.unity.com/packages/audio/music/sc-fi-music-214312
+
+Gun Targets by FrodoUndead
+https://sketchfab.com/3d-models/gun-targets-eb9fbe283faa41ef8685359a0769d303
+
+Free FPS Weapon - MCX by Delthor Games
+https://assetstore.unity.com/packages/3d/props/guns/free-fps-weapon-mcx-177248
+
+Low Poly FPS Weapons Lite (specifically pistol) by JustCreate
+https://assetstore.unity.com/packages/3d/props/guns/low-poly-fps-weapons-lite-245929
+
+AR 15 sound effects by Nonpavit Khongnual
+https://www.youtube.com/watch?v=1otAua9XIPs
